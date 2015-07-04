@@ -1,4 +1,4 @@
 
 ### ROM Adapter for WinRB/Viewpoint gem
 
-(via WinRB/Viewpoint http://https://github.com/WinRb/Viewpoint)
+(via WinRB/Viewpoint https://github.com/WinRb/Viewpoint)
